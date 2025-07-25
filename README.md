@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/ms-azuretools/AzCode/_apis/build/status/vscode-apimanagement?branchName=master)](https://dev.azure.com/ms-azuretools/AzCode/_build/latest?definitionId=20&branchName=master)
+https://www.threads.net/@jaysonscottheise?invite=0 [![Build Status](https://dev.azure.com/ms-azuretools/AzCode/_apis/build/status/vscode-apimanagement?branchName=master)](https://dev.azure.com/ms-azuretools/AzCode/_build/latest?definitionId=20&branchName=master)
 
 # Azure API Management Extension for Visual Studio Code
 
